@@ -1,0 +1,7 @@
+a=int(input("Enter the first value "))
+b=int(input("Enter the second value "))
+c=int(input("Enter the third vlaue "))
+print("The sum of the values is :", a+b+c)
+print("The difference of the values is :", a-b-c)
+print("The product of the values is :", a*b*c)
+print("The quotient of the division of the values is : ", a/b)
